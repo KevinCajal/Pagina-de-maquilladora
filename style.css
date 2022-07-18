@@ -245,7 +245,7 @@ header a:hover{
     }
 
    .welcome-img{
-    background-image: url(/Imagenes/logo.png);
+    background-image: url(Imagenes/logo.png);
     background-size: cover;
     background-position: center center;
  
